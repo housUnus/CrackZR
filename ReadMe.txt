@@ -9,10 +9,10 @@ you can define the min charachters in the password for example :
 if min = 3 the generating will start from aaa
 and for 4 : aaaa
 
-ùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùùù
+Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹Ã¹
 
 To use CrackRZ.py 
-use in your terminal 
+use in your terminal nafigate to folder contain the script and :
 > python CrackRZ.py -t "rar or zip " -f "file path"
 
 the -t define the "type" if it's rar or zip file
